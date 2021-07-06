@@ -12,8 +12,7 @@
 
 * Quando existir atualização do arquivo banner ele substitui de maneira automatizada para todos que utilizam.
 
-* Alterar onde consta http://www.institucional.com.br para o site correto.
-
+* Alterar o arquivo index.html onde consta http://www.institucional.com.br para o site correto.
 
 
 Obs.: Não testei em outros ambientes.
