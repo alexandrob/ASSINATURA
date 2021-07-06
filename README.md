@@ -1,19 +1,18 @@
-# HTML para assinatura de Email
+# HTML para assinatura de e-mail
 
-* Este pode ser utilizado em um repositório do site institucional por exemplo http://www.institucional.com.br/assinatura/index.html
+* Este pode ser utilizado em um repositório no site institucional, por exemplo http://www.institucional.com.br/assinatura/index.html.
 
-* Abra a pagina e selecione todos os campos e copie
+* Para configurar a assinatura basta abrir a pagina no caminho acima, selecionar todos os campos e copiar.
 
-* Abra as configurações do Gmail e em assinatura cole e altere os campos
+* Abra as configurações do Gmail e em assinatura cole e altere os campos abaixo:
 	* Nome
 	* Cargo
 	* Fone
 	* Endereço
 
-* Quando existir atualização do arquivo banner ele substitui de maneira automatizada para todos que utilizam.
+* Quando existir atualização do arquivo banner.png ele ira substitui de maneira automatizada para todos que utilizam.
 
-* Alterar o arquivo index.html onde consta http://www.institucional.com.br para o site correto.
-
+* Alterar o arquivo index.html e onde consta http://www.institucional.com.br para o site correto.
 
 Obs.: Não testei em outros ambientes.
 
