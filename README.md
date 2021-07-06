@@ -5,10 +5,11 @@
 * Abra a pagina e selecione todos os campos e copie
 
 * Abra as configurações do Gmail e em assinatura cole e altere os campos
-	Nome
-	Cargo
-	Fone
-	Endereço
+	* Nome
+	* Cargo
+	* Fone
+	* Endereço
+
 * Quando existir atualização do arquivo banner ele substitui de maneira automatizada para todos que utilizam.
 
 * Alterar onde consta http://www.institucional.com.br para o site correto.
