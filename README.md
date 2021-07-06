@@ -15,4 +15,5 @@
 * Alterar o arquivo index.html e onde consta http://www.institucional.com.br para o site correto.
 
 Obs.: Não testei em outros ambientes.
+	O arquivo banner.png não existe e precisa ser criado no tamanho de 600x127.
 
