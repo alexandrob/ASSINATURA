@@ -1,6 +1,6 @@
 # HTML para assinatura de e-mail
 
-* Este pode ser utilizado em um repositório no site institucional, por exemplo http://www.institucional.com.br/assinatura/index.html.
+* Este pode ser disponibilizado no site institucional, por exemplo http://www.domain.com.br/assinatura/index.html
 
 * Para configurar a assinatura basta abrir a pagina no caminho acima, selecionar todos os campos e copiar.
 
@@ -12,7 +12,7 @@
 
 * Quando existir atualização do arquivo banner.png ele ira substitui de maneira automatizada para todos que utilizam.
 
-* Alterar o arquivo index.html e onde consta http://www.institucional.com.br para o site correto.
+* Alterar no arquivo index.html onde consta http://www.domain.com.br para o site correto.
 
 Obs.: Não testei em outros ambientes.
 	O arquivo banner.png não existe e precisa ser criado no tamanho de 600x127.
